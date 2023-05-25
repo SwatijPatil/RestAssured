@@ -1,9 +1,0 @@
-{
-  "FirstName": "NewTest",
-  "Lastname": "Lastname",
-  "Id": "newTest10",
-  "Address": {
-    "City": "Bangalore",
-    "Area": "VN"
-  }
-}
