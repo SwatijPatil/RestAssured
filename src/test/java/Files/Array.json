@@ -1,0 +1,12 @@
+{"FirstName":"Swati",
+  "LastName":"Patil",
+  "Id":"1100",
+  "designation":"QA Lead",
+  "Address":
+  [
+    {"House no":"1190",
+    "City":"Bangalore"},
+    {"House no":"1191",
+      "City":"Bangalore"}
+  ]
+}
